@@ -1,0 +1,84 @@
+a:link { 
+      color:white;
+	  text-decoration:none;
+}
+a:visited { 
+      color:white;
+}
+a:active { 
+      color:white;
+}
+a:hover {
+  opacity: 0.8;
+}
+
+#home {
+    background-color:#7F00FF;
+	color:white;
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:20%;
+	
+	text-align:center;
+	}
+#home:hover{
+    color:#7F00FF;
+    background-color:white;
+}
+
+#about {
+    color:white;
+	position:absolute;
+	background-color:#7F00FF;	
+	left:20%;
+	width:20%;
+	top:0px;
+	text-align:center;
+	}
+#about:hover{
+    color:#7F00FF;
+    background-color:white;
+}
+#academics {    
+    color:white;
+	position:absolute;
+	background-color:#7F00FF;
+	top:0px;
+	right:40%;
+	width:20%;
+	
+	text-align:center;
+	}
+#academics:hover{
+    color:#7F00FF;
+    background-color:white;
+}
+#contact {
+    color:white;
+	position:absolute;
+	background-color:#7F00FF;
+	width:20%;
+	top:0px;
+	right:0px;	
+	text-align:center;
+
+	}
+#contact:hover{
+    color:#7F00FF;
+    background-color:white;
+}
+#hobbies {
+			color:white;
+			position:absolute;
+			background-color:#7F00FF;
+			width:20%;
+			top:0px;
+			right:20%;
+			text-align:center;
+				
+			}
+#hobbies:hover {
+			color:#7F00FF;
+			background-color:white;
+			}
